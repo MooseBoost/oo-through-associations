@@ -412,4 +412,4 @@ end
 
 Now that we've had a basic introduction to some more complex associations, you'll be building a similar domain model in the next lab. If you feel a little shaky on some of these concepts, that's okay. These concepts are complex. But they are foundational. Give the next lab a try and remember to refer back to this walk-through for help. Even consider re-doing this Code Along if you don't yet feel confident enough to move on. And remember to always reach out to the Learn community for help!
 
-<a href='https://learn.co/lessons/oo-through-associations' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-through-associations' title='Code Along: Through Associations'>Code Along: Through Associations</a> on Learn.co and start learning to code for free.</p>
